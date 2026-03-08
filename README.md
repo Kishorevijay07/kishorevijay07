@@ -65,6 +65,24 @@
 
 ## 🔥 Projects
 
+
+### 🏥 AI HealthSense – AI Health Monitoring System
+- Flutter + TensorFlow Lite mobile application
+- Predicts **health risk using physiological parameters**
+- Uses **age, pulse rate, oxygen level, and activity level**
+- ML model trained with **TensorFlow in Python**
+
+---
+
+
+### 📄 Multimodal OCR System (Ongoing)
+- Developing a **multimodal OCR system** for extracting information from documents
+- Integrating **Tesseract OCR + AI models**
+- Designed for **legal-tech and document intelligence applications**
+- Supports **text extraction and structured data generation**
+
+---
+
 ### 🧠 Offline AI Python Programming Coach
 - Built an **offline AI assistant** that helps users learn Python programming
 - Provides **code explanations, debugging help, and learning guidance**
@@ -78,22 +96,6 @@
 - Trained using **Python, TensorFlow, and image datasets**
 - Predicts handwritten digits using a trained neural network
 - Demonstrates **computer vision fundamentals**
-
----
-
-### 📄 Multimodal OCR System (Ongoing)
-- Developing a **multimodal OCR system** for extracting information from documents
-- Integrating **Tesseract OCR + AI models**
-- Designed for **legal-tech and document intelligence applications**
-- Supports **text extraction and structured data generation**
-
----
-
-### 🏥 AI HealthSense – AI Health Monitoring System
-- Flutter + TensorFlow Lite mobile application
-- Predicts **health risk using physiological parameters**
-- Uses **age, pulse rate, oxygen level, and activity level**
-- ML model trained with **TensorFlow in Python**
 
 ---
 
