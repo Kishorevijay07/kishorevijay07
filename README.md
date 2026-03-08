@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore Vijay</h1>
+<h1 align="center">Hi 👋, I'm Kishore Selvaraj</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | MERN Stack</h3>
 
 <p align="center">
