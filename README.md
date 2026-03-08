@@ -65,22 +65,49 @@
 
 ## 🔥 Projects
 
-### 🏥 AI Health Monitoring System
-- Flutter + TensorFlow Lite
-- Predicts health risks using physiological data
-
-### ⚡ EV Charging Station Platform
-- React + Node.js + MongoDB
-- Charger listing, booking, and map view
-
-### 🏠 Airbnb-like Room Booking System
-- MERN Stack + Stripe Payment Integration
-- Booking system with payment gateway
-
-### 📊 Attendance Management System
-- MERN Stack application for college attendance tracking
+### 🧠 Offline AI Python Programming Coach
+- Built an **offline AI assistant** that helps users learn Python programming
+- Provides **code explanations, debugging help, and learning guidance**
+- Designed to run **locally without internet access**
+- Focused on improving programming learning experience for beginners
 
 ---
+
+### 🔢 Handwritten Digit Identifier
+- Machine Learning model for **digit recognition**
+- Trained using **Python, TensorFlow, and image datasets**
+- Predicts handwritten digits using a trained neural network
+- Demonstrates **computer vision fundamentals**
+
+---
+
+### 📄 Multimodal OCR System (Ongoing)
+- Developing a **multimodal OCR system** for extracting information from documents
+- Integrating **Tesseract OCR + AI models**
+- Designed for **legal-tech and document intelligence applications**
+- Supports **text extraction and structured data generation**
+
+---
+
+### 🏥 AI HealthSense – AI Health Monitoring System
+- Flutter + TensorFlow Lite mobile application
+- Predicts **health risk using physiological parameters**
+- Uses **age, pulse rate, oxygen level, and activity level**
+- ML model trained with **TensorFlow in Python**
+
+---
+
+### ⚡ EV Charging Station Platform
+- Full-stack web application using **React, Node.js, MongoDB**
+- Charger listing, filtering, CRUD operations
+- Map visualization using **Leaflet**
+- Frontend deployed on **Vercel**, backend on **Render**
+
+---
+
+### 📊 Attendance Management System
+- MERN Stack project for **college attendance tracking**
+- Staff allocation, subject management, and attendance records
 
 ## 🌐 Connect With Me
 
