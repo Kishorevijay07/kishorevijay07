@@ -75,7 +75,7 @@
 ---
 
 
-### 📄 Multimodal OCR System (Ongoing)
+### 📄 Multimodal OCR System
 - Developing a **multimodal OCR system** for extracting information from documents
 - Integrating **Tesseract OCR + AI models**
 - Designed for **legal-tech and document intelligence applications**
