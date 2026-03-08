@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishore Selvaraj</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | MERN Stack</h3>
+<h3 align="center"> AI/ML Enthusiast | Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
 🎓 M.Sc Integrated Information Technology <br>
