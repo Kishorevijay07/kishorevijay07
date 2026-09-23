@@ -116,14 +116,7 @@ An advanced OCR system that dynamically combines multiple models to extract text
 
 `Python` `OpenCV` `Tesseract` `Deep Learning`
 
----
 
-### 💼 SaaS Product Platform
-A production-oriented multi-tenant SaaS with workspace-scoped data isolation, Stripe-powered subscription tiers (trial → pro → team), invite-based team collaboration, usage metering, audit logs, and a self-serve admin panel.
-
-`Next.js` `FastAPI` `PostgreSQL` `Stripe` `Docker`
-
----
 
 ### 🧠 Offline AI Python Programming Coach
 A fully offline AI-powered coding assistant for Python developers — code suggestions, debugging help, and concept explanations, running entirely locally with no internet dependency.
